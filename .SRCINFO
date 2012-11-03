@@ -1,0 +1,16 @@
+pkgbase = kdeartwork-colorshemes-blackeagle
+	pkgdesc = BlackEagles kde4 colors
+	pkgver = 1.0
+	pkgrel = 1
+	url = http://www.herecura.be
+	arch = any
+	license = GPL
+	source = BlackEagle_dark.colors
+	source = BlackEagle_grey.colors
+	source = BlackEagle_light.colors
+	sha256sums = dbf400dcaab56c46e0782c58f4c068de139bfbaa7a75150924fac4a30e812917
+	sha256sums = 7d517899864e491c0631c3aa93290f94f3f747a44567ba7e5fa4ee4e3631d027
+	sha256sums = db2a6b9006ab0dd6ede7c21a1af198eab4592cdd1dae29a04f9bf66899308fbd
+
+pkgname = kdeartwork-colorshemes-blackeagle
+
