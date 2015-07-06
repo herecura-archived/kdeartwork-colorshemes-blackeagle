@@ -1,7 +1,7 @@
 # Maintainer: BlackEagle < ike DOT devolder AT gmail DOT be >
 pkgname=kdeartwork-colorshemes-blackeagle
 pkgver=1.0
-pkgrel=1
+pkgrel=2
 pkgdesc="BlackEagles kde4 colors"
 arch=('any')
 url="http://www.herecura.be"
